@@ -25,9 +25,9 @@
 
     <!-- Error messages -->
     <string name="failed_to_set_volume">Failed to set the volume</string>
-    <string name="failed_to_launch_app">Failed to lauch application</string>
+    <string name="failed_to_launch_app">Failed to launch application</string>
     <string name="failed_to_set_mute">Failed to adjust the volume mute</string>
-    <string name="failed_to_find_app">The application you are trying to launch is not availabled on your chromecast device</string>
+    <string name="failed_to_find_app">The application you are trying to launch is not available on your Chromecast device</string>
     <string name="failed_app_launch_timeout">The request to launch the application has timed out!</string>
     <string name="failed_to_play">Failed to start the playback of media</string>
     <string name="failed_to_pause">Failed to pause the playback of media</string>
@@ -38,9 +38,9 @@
     <string name="video_error_unknown_error">Failed to load video</string>
     <string name="connection_temp_lost">Connection to the cast device is temporarily lost</string>
     <string name="connection_recovered">Connection to the cast device is recovered</string>
-    <string name="connection_lost_retry">Connection to the cast device has been temporarily lost. Application is trying to reover connection, please try again later</string>
+    <string name="connection_lost_retry">Connection to the cast device has been temporarily lost. Application is trying to recover connection, please try again later</string>
     <string name="connection_lost">No connection to the cast device exist</string>
-    <string name="failed_to_perfrom_action">Sorry, ran into issues perfroming the task you wanted</string>
+    <string name="failed_to_perform_action">Sorry, ran into issues performing the task you wanted</string>
     <string name="oops">Oops</string>
 
     <!-- Preferences -->
@@ -60,7 +60,7 @@
     <string name="tab_photos_title">Photos</string>
 
     <!-- One-time help screen -->
-    <string name="showcase_simple_title">Touch to cast videos, music  or photos to your TV</string>
+    <string name="showcase_simple_title">Touch to cast videos, music or photos to your TV</string>
     <string name="showcase_simple_message"></string>
 
 </resources>
